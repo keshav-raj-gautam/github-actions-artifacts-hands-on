@@ -35,5 +35,5 @@ jobs:
                 name: hello.txt
             
             - name: Read
-              run: cat ./artifacts/hello.txt    
+              run: cat ./artifacts
 
